@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://th.bing.com/th/id/R.b2e29fbb4e18f22bcc6624001771ec85?rik=%2fzqp0N1%2f%2f4yYMg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-5deQcXfuVP4%2fVaDRz21ah_I%2fAAAAAAAAAws%2f6-gKfgWv1-k%2fs1600%2fharappan-civilization-enlarge-map.jpg&ehk=%2bWR4tqEfaHAKqlMUqJiLITJu80U1IowheXPKBnUoJ1E%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
